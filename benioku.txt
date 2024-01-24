@@ -1,0 +1,10 @@
+Ödev, windows 11 güncellemesi ile gelen güncellenmiş terminal üzerinde çalıştırıldığında
+ekrana çıktılarını belirli bir adımdan sonra doğru bir şekilde basmamaktadır.
+
+Ayarlar->Sistem->Geliştiricler için->Terminal->Windows Konsol Ana Bilgisayarı
+seçildiğinde, çıktılar olması gereken şekilde basılmaktadır.
+
+Ödev windows10 işletim sistemi kullanılan bilgisayarda çalıştırılmış, ayrıca yukarıda
+bahsedilen windows11 terminal ayarlaması ile birlikte de test edilmiştir. İki test
+sonucu da başarılı olmuştur.
+
